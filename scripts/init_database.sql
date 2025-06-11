@@ -33,9 +33,9 @@ USE DataWarehouse;
 GO
 
 -- Creating the schema
-CREATE SCHEMA bronze;
+CREATE SCHEMA bronze_layer;
 GO
-CREATE SCHEMA silver;
+CREATE SCHEMA silver_layer;
 GO
-CREATE SCHEMA gold;
+CREATE SCHEMA gold_layer;
 GO
